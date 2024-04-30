@@ -1,0 +1,15 @@
+.btn-main {
+  margin-top: 10px;
+  display: inline-block;
+  background-color: #709775;
+  padding: 16px 36px;
+  border-radius: 50px;
+  color: white;
+  opacity: 0.8;
+}
+
+.btn-main:hover {
+  /* opacity: 1.5; */
+  background-color: #5f7b63;
+}
+

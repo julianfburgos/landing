@@ -1,0 +1,26 @@
+.banner {
+background-size: cover;
+background-position: center;
+padding: 200px;
+}
+
+.footer {
+background-size: cover;
+background-position: center;
+padding: 150px;
+opacity: 0.7;
+text-align: center;
+}
+
+.footer i {
+    font-size: 60px;
+    color: blanchedalmond;
+    text-shadow: 1px 1px 1px #5e625f;
+}
+
+.footer > .container {
+  justify-content: safe;
+  margin-bottom: 100px;
+  text-align: center;
+  object-position: center;
+}
